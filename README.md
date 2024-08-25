@@ -1,4 +1,3 @@
-```markdown
 # Flutter Project
 
 Welcome to the Flutter Project! This is a starting point for a Flutter application designed to demonstrate various features and functionalities.
